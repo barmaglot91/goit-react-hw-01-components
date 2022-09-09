@@ -15,7 +15,7 @@
   .friends__item {
     display: flex;
     align-items: center;
-    box-shadow: 0 0 10px #c6cccced;
+    box-shadow: 0 0 5px #666b6bed;
     padding: 20px;
   }
   
